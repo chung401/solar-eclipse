@@ -1,0 +1,60 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: 01-event-mockup.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 1000.08 pt x 1710.1489 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+DIN Condensed Bold (TrueType)
+Georgia (OTF)
+Georgia Italic (OTF)
+Georgia Bold (OTF)
+Myriad Pro (OTF)
+Myriad Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/Chung/Desktop/advanced-web/01-eventspage/images/psd/moon1.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2687K, 1180 by 583 pixels
+Dimensions: 218.413 by 431.89 points 
+Resolution: 388.988 by 97.191 pixels per inch
+
+
+/Users/Chung/Desktop/advanced-web/01-eventspage/images/psd/moon2.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2687K, 1180 by 583 pixels
+Dimensions: 240.214 by 433.368 points 
+Resolution: 353.684 by 96.86 pixels per inch
